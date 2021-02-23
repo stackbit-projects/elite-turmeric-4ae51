@@ -229,7 +229,7 @@ const IndexPage = () => (
           <LinkDark
             display="inline-block"
             fontWeight="bold"
-            href="#"
+            href="https://nomiclabs.io/"
           >
             Nomic Labs
           </LinkDark>
