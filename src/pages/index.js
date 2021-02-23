@@ -130,7 +130,7 @@ const IndexPage = () => (
               </LinkLight>
               <Text as="p" color="blue.2" mb={5} fontSize={3}>
                 A declarative, efficient library for
-                building user interfaces.
+                building  contracts.
               </Text>
             </Flex.Item>
           </StyledFlex>
