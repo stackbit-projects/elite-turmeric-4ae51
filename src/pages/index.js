@@ -229,7 +229,7 @@ const IndexPage = () => (
           <LinkDark
             display="inline-block"
             fontWeight="bold"
-            href="https://primer.style/"
+            href="#"
           >
             Primer design system and website
           </LinkDark>
