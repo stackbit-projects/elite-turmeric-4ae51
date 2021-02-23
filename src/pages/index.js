@@ -81,7 +81,7 @@ const IndexPage = () => (
                 fontSize={[0, 1, 2]}
                 href="https://github.com/thomaswangio/gatsby-starter-primer"
               >
-                
+                CI
               </LinkLight>{" "}
             </Text>
           </Flex.Item>
