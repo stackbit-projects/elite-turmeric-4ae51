@@ -198,7 +198,7 @@ const IndexPage = () => (
           >
             <Octicon icon={Megaphone} size={20} verticalAlign="text-top" />
             <Text ml={2} fontWeight="400" fontSize={2}>
-              Check out my personal site
+              Check out Contract Shark 
             </Text>
           </LinkDark>
           <LinkDark
