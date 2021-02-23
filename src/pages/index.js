@@ -45,8 +45,7 @@ const IndexPage = () => (
               HardHat.sh
             </Heading>
             <Text color="blue.2" fontSize={[4, 5, 5, 7]} lineHeight={1.25}>
-              Showcasing all of your open source projects, made available on
-              Github.
+              opinionated
             </Text>
           </Flex.Item>
           <Flex.Item
