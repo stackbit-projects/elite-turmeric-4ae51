@@ -42,7 +42,7 @@ const IndexPage = () => (
               fontSize={[48, 56, 84]}
               fontWeight="700"
             >
-              HardHat
+              HardHat.sh
             </Heading>
             <Text color="blue.2" fontSize={[4, 5, 5, 7]} lineHeight={1.25}>
               Showcasing all of your open source projects, made available on
