@@ -112,7 +112,7 @@ const IndexPage = () => (
                 Conformant
               </LinkLight>
               <Text as="p" color="blue.2" mb={5} fontSize={3}>
-                Includes only modules from the core,
+                Includes only modules that enforce the core,
                 product, and marketing packages
               </Text>
             </Flex.Item>
