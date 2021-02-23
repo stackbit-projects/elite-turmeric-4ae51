@@ -4,7 +4,7 @@ import { Box, Heading, Text, Link, Flex } from "@primer/components"
 import Octicon, {
   Package,
   Repo,
-  Heart,
+  Info,
   Octoface,
   Mail,
   Megaphone,
