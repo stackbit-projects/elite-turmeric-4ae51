@@ -187,7 +187,7 @@ const IndexPage = () => (
           >
             <Octicon icon={Octoface} size={20} verticalAlign="text-top" />
             <Text ml={2} fontWeight="400" fontSize={2}>
-              Follow me on Github
+              More resources on Github
             </Text>
           </LinkDark>
           <LinkDark
