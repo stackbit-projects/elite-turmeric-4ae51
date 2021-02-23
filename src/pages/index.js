@@ -224,7 +224,7 @@ const IndexPage = () => (
           py={5}
         >
           <Text pr={1} as="span" fontSize={2} fontWeight={500}>
-            Created using GitHub&#8217;s
+            HardHat &#8217;s
           </Text>
           <LinkDark
             display="inline-block"
