@@ -231,7 +231,7 @@ const IndexPage = () => (
             fontWeight="bold"
             href="#"
           >
-            Primer design system and website
+            Nomic Labs
           </LinkDark>
           <Text>.</Text>
           <Text as="p" fontSize={2} fontWeight={500} mt={3}>
