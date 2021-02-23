@@ -24,7 +24,7 @@ export default function Nav() {
                 fontWeight="bold"
                 lineHeight="condensed"
               >
-                Mona Lisa
+                hardhat-sh
               </NoWrapText>
             </Flex>
           </a>
