@@ -144,7 +144,7 @@ const IndexPage = () => (
                 fontSize={2}
                 href="#"
               >
-                gatsby
+                Idiomatic
               </LinkLight>
               <Text as="p" color="blue.2" mb={5} fontSize={3}>
                 Build blazing fast, modern apps and websites with React.
