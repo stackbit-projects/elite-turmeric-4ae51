@@ -165,7 +165,7 @@ const IndexPage = () => (
             fontSize={7}
             fontWeight="800"
           >
-            Keep in touch
+            Points of Contact 
           </Heading>
           <LinkDark
             pt={1}
