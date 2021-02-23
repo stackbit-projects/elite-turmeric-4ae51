@@ -176,7 +176,7 @@ const IndexPage = () => (
           >
             <Octicon icon={TwitterIcon} size={20} verticalAlign="top" />
             <Text ml={2} fontWeight="400" fontSize={2}>
-              Follow me on Twitter
+              Follow us on Twitter 
             </Text>
           </LinkDark>
           <LinkDark
