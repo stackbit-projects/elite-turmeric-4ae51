@@ -73,7 +73,7 @@ const IndexPage = () => (
                 fontSize={[0, 1, 2]}
                 href="#"
               >
-                
+                customize
               </LinkLight>{" "}
               ・
               <LinkLight
