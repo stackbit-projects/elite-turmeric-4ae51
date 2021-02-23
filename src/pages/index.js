@@ -129,7 +129,7 @@ const IndexPage = () => (
                 Consistent
               </LinkLight>
               <Text as="p" color="blue.2" mb={5} fontSize={3}>
-                A declarative, efficient, and flexible JavaScript library for
+                A declarative, efficient library for
                 building user interfaces.
               </Text>
             </Flex.Item>
