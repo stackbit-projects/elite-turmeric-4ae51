@@ -235,7 +235,7 @@ const IndexPage = () => (
           </LinkDark>
           <Text>.</Text>
           <Text as="p" fontSize={2} fontWeight={500} mt={3}>
-            &copy; Mona Lisa Octocat {new Date().getFullYear()}.
+            &copy; Contract Shark {new Date().getFullYear()}.
           </Text>
         </Box>
       </FooterBox>
