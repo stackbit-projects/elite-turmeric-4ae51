@@ -33,9 +33,7 @@ const IndexPage = () => (
         flexDirection={["row", "row", "row-reverse"]}
         alignItems="end"
       >
-        <ImageContainer px={5} mx={"auto"}>
-          <Image />
-        </ImageContainer>
+   
         <div style={{ maxWidth: "700px", margin: "auto" }}>
           <Flex.Item px={5} my={[4, 3, 0]} width={[1, 1, 1, 7 / 12]}>
             <Heading
