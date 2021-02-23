@@ -136,7 +136,7 @@ const IndexPage = () => (
           </StyledFlex>
           <StyledFlex size={[1, 6 / 12, 6 / 12]} px={5} mb={[3, 4, 4, 2]}>
             <Flex.Item color="blue.3" mr={3}>
-              <Octicon icon={info} height={40} verticalAlign="middle" />
+              <Octicon icon={Info} height={40} verticalAlign="middle" />
             </Flex.Item>
             <Flex.Item>
               <LinkLight
