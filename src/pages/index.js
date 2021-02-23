@@ -172,7 +172,7 @@ const IndexPage = () => (
             fontSize={2}
             mb={3}
             display="block"
-            href="https://twitter.com/monatheoctocat"
+            href="https://twitter.com/foldfinance"
           >
             <Octicon icon={TwitterIcon} size={20} verticalAlign="top" />
             <Text ml={2} fontWeight="400" fontSize={2}>
