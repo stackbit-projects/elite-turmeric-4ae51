@@ -126,7 +126,7 @@ const IndexPage = () => (
                 fontSize={2}
                 href="https://github.com/facebook/react"
               >
-                react
+                
               </LinkLight>
               <Text as="p" color="blue.2" mb={5} fontSize={3}>
                 A declarative, efficient, and flexible JavaScript library for
