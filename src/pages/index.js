@@ -65,7 +65,7 @@ const IndexPage = () => (
                 fontSize={[0, 1, 2]}
                 href="https://github.com/monatheoctocat"
               >
-                curl+sh 
+                Curl SH 
               </LinkLight>{" "}
               ・
               <LinkLight
