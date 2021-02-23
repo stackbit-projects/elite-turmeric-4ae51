@@ -45,7 +45,7 @@ const IndexPage = () => (
               HardHat.sh
             </Heading>
             <Text color="blue.2" fontSize={[4, 5, 5, 7]} lineHeight={1.25}>
-              an opinionated
+              an opinionated 
             </Text>
           </Flex.Item>
           <Flex.Item
