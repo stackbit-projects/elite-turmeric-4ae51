@@ -147,7 +147,7 @@ const IndexPage = () => (
                 Idiomatic
               </LinkLight>
               <Text as="p" color="blue.2" mb={5} fontSize={3}>
-                Build blazing fast, modern apps and websites with React.
+                Foundational 
               </Text>
             </Flex.Item>
           </StyledFlex>
