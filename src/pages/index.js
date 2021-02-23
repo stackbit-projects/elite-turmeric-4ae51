@@ -109,7 +109,7 @@ const IndexPage = () => (
                 fontSize={2}
                 href="#"
               >
-                primer
+                Conformant
               </LinkLight>
               <Text as="p" color="blue.2" mb={5} fontSize={3}>
                 This package includes all 30 Primer modules from the core,
