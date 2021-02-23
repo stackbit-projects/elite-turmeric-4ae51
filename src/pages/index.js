@@ -224,7 +224,7 @@ const IndexPage = () => (
           py={5}
         >
           <Text pr={1} as="span" fontSize={2} fontWeight={500}>
-            HardHat is devloped and maintained by&#8217;s
+            HardHat is devloped and maintained by&#8217;
           </Text>
           <LinkDark
             display="inline-block"
