@@ -37,7 +37,7 @@ export default function Nav() {
               fontWeight="bold"
               lineHeight="condensed"
             >
-              Mona's site
+              Contract Shark
             </NoWrapText>
           </a>
         </Flex>
